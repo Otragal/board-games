@@ -9,11 +9,11 @@
 
 Wyrt é um jogo de cartas fictício, presente na obra fantasia brasileira "Tormenta", criada pelos Leonel Caldela,  Marcelo Cassaro, J.M. Trevison e Irmãos Svaldi; publicado pela [Jambo](https://jamboeditora.com.br/categoria/rpg/tormenta20-rpg/). 
 
-Através das referencias pelo livro "Inimigo do Mundo" e "Coração de Ruby", eu modelei Wyrt como jogo de cartas real com regras simples. Aqui contém manual para jogar Wyrt. Divirta-se.
+Através das referencias das obras "Inimigo do Mundo" e "Coração de Ruby", modelei Wyrt como jogo de cartas real com regras simples. Aqui contém manual para jogar Wyrt. Divirta-se.
 
 ---
 
-Wyrt é jogo com cartas e dados, que depende de estratégia e sorte. Apenas nobres podem jogar Wyrt e é ilegal a todos que não sejam, podendo resultar um ato de crime. Mas cassinos e tavernas discretas oferecem mesas clandestinas deste jogo paara quem puder pagar e jogar.
+Wyrt é jogo com cartas e dados, que depende de estratégia e sorte. Apenas nobres podem jogar Wyrt e é ilegal a todos que não sejam, podendo resultar um ato de crime. Mas cassinos e tavernas discretas oferecem mesas clandestinas deste jogo parra quem puder pagar e jogar.
 
 ## Materiais Necessários
 
