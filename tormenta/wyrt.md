@@ -1,6 +1,6 @@
 # Jogo Wyrt
 
-<sub>versão 1.0</sub>
+<sub>versão 1.05</sub>
 
 *Cartas, dados, tibares e sorte - quatros componentes importantes para jogar Wyrt.*
 
@@ -9,11 +9,11 @@
 
 Wyrt é um jogo de cartas fictício, presente na obra fantasia brasileira "Tormenta", criada pelos Leonel Caldela,  Marcelo Cassaro, J.M. Trevison e Irmãos Svaldi; publicado pela [Jambo](https://jamboeditora.com.br/categoria/rpg/tormenta20-rpg/). 
 
-Através das referencias pelo livro "Inimigo do Mundo" e "Coração de Ruby", eu modelei Wyrt como jogo de cartas real com regras simples. Aqui contém manual para jogar Wyrt. Divirta-se.
+Através das referencias das obras "Inimigo do Mundo" e "Coração de Ruby", modelei Wyrt como jogo de cartas real com regras simples. Aqui contém manual para jogar Wyrt. Divirta-se.
 
 ---
 
-Wyrt é jogo com cartas e dados, que depende de estratégia e sorte. Apenas nobres podem jogar Wyrt e é ilegal a todos que não sejam, podendo resultar um ato de crime. Mas cassinos e tavernas discretas oferecem mesas clandestinas deste jogo paara quem puder pagar e jogar.
+Wyrt é jogo com cartas e dados, que depende de estratégia e sorte. Apenas nobres podem jogar Wyrt e é ilegal a todos que não sejam, podendo resultar um ato de crime. Mas cassinos e tavernas discretas oferecem mesas clandestinas deste jogo para quem puder pagar e jogar.
 
 ## Materiais Necessários
 
@@ -43,22 +43,27 @@ Um *lorde* é escolhido para embaralhar e distribuir 5 cartas para cada um (toda
 
 ### Aposta
 
-Sem ver as cartas, os *lordes* fazem apostas, podendo ser T\$ 10, T\$ 20 ou T\$ 50. Em grupos, todos do grupo devem apostar o mesmo valor - se um grupo apostou no total de T\$ 70, então outros grupos devem apostar T\$ 70. Se o *lorde* não tiver o mínimo do valor aceitável, deve apostar tudo o que tiver. Após as apostas, os *lordes* podem ver as cartas.
+Sem ver as cartas, os *lordes* fazem apostas, podendo ser T\$ 10, T\$ 20 ou T\$ 50. Em grupos, cada pessoa deve apostar e todos os grupo devem apostar o mesmo valor - se um grupo apostar no total de T\$ 70, então outros grupos devem apostar T\$ 70. Em caso de impasse a menor aposta permitida é decidida. 
+
+Se o *lorde* não tiver o mínimo do valor aceitável, deve apostar tudo o que tiver. Após as apostas, os *lordes* podem ver as cartas.
 
 ### Descarte e Troca
 
-Na vez do *lorde*, inicialmente pode descartar até 3 cartas da *mão*, colocando-as abertas próximo do centro *mesa* (*Descarte*). Feito isso, o *lorde* pode comprar as cartas do *Monte de Compras* ou pegar as cartas descartadas dos outros lordes (*Troca*). O jogador precisa estar com 5 cartas na *mão* antes de passar a vez. Se não quiser descartar, pode passar a vez.
+Na vez do *lorde*, inicialmente pode descartar até 3 cartas da *mão*, colocando-as abertas próximo do centro *mesa* (*Descarte*). Feito isso, o *lorde* pode comprar as cartas do *Monte de Compras* ou pegar as cartas descartadas dos outros lordes (*Troca*). 
 
-**Lorde de Wyrt.** O *lorde* que embaralhou torna-se o *Lorde de Wyrt*. Ele é o primeiro a jogar e representa o ínicio e fim da rodada de *Descarte e Troca*. Se o *lorde* quiser, pode descartar as cartas e comprar no *monte* na vez dele. Porém, se desejar fazer a *Troca*, deve esperar todos os outros *lordes* descarterem e trocarem as cartas; e assim pegar o que sobrou na *mesa* (deve informar aos *lordes* antes).
+O *lorde* precisa estar com 5 cartas na *mão* antes de passar a vez. Se não quiser descartar, pode passar a vez.
 
-Se o *lorde* que embaralhou passou a vez sem realizar algum descarte, o próximo *lorde* deve seguir as regras de *Lorde de Wyrt* na parte de querer descartas e comprar cartas e realizar a *Troca*.
+Se algum *lorde* tiver com mais 5 cartas, a carta excedente é colocada no fundo do *monte*.
+
+**Lorde de Wyrt.** O *lorde* que embaralhou torna-se o *Lorde de Wyrt*. Ele é o primeiro a jogar e representa o ínicio e fim de *Descarte e Troca* - se chegar a vez dele novamente, termina. Se o *lorde* quiser, pode descartar as cartas e comprar no *monte* na vez dele. Porém, se deseja fazer a *Troca*, deve esperar todos os outros *lordes* descarterem e trocarem as cartas; e assim pegar o que sobrou na *mesa* (deve informar aos *lordes* antes).
+
+Se o *Lorde de Wyrt* passou a vez sem realizar algum descarte, o próximo *lorde* da *Ordem de Lordes* deve seguir as regras de *Lorde de Wyrt* na parte de querer descartas e comprar cartas; e realizar a *Troca*.
 
 Todos os *lordes* devem terminar com 5 cartas na *mão*. Se houver um com menos, este deve completar a mão através das cartas descartadas (se houver) ou comprar no *Monte de Compras*.
 
-
 ### Formação de Combinações
 
-Com as cartas nas *mãos*, o *lorde* deve fazer combinações para ter garantia de vitória. As combinações valem pontos e são comparadas nesta ordem (da menor para a maior):-
+Com as cartas nas *mãos*, o *lorde* deve fazer combinações para ter garantia de vitória. As combinações valem pontos e são comparadas nesta ordem (da menor para a maior):
 
 | Combinação | Pontos | Exemplos |
 | --- | --- | --- |
