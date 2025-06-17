@@ -1,6 +1,6 @@
 # Jogo Wyrt
 
-<sub>versão 1.05</sub>
+<sub>versão 1.08</sub>
 
 *Cartas, dados, tibares e sorte - quatros componentes importantes para jogar Wyrt.*
 
@@ -55,11 +55,13 @@ O *lorde* precisa estar com 5 cartas na *mão* antes de passar a vez. Se não qu
 
 Se algum *lorde* tiver com mais 5 cartas, a carta excedente é colocada no fundo do *monte*.
 
-**Lorde de Wyrt.** O *lorde* que embaralhou torna-se o *Lorde de Wyrt*. Ele é o primeiro a jogar e representa o ínicio e fim de *Descarte e Troca* - se chegar a vez dele novamente, termina. Se o *lorde* quiser, pode descartar as cartas e comprar no *monte* na vez dele. Porém, se deseja fazer a *Troca*, deve esperar todos os outros *lordes* descarterem e trocarem as cartas; e assim pegar o que sobrou na *mesa* (deve informar aos *lordes* antes).
-
-Se o *Lorde de Wyrt* passou a vez sem realizar algum descarte, o próximo *lorde* da *Ordem de Lordes* deve seguir as regras de *Lorde de Wyrt* na parte de querer descartas e comprar cartas; e realizar a *Troca*.
-
 Todos os *lordes* devem terminar com 5 cartas na *mão*. Se houver um com menos, este deve completar a mão através das cartas descartadas (se houver) ou comprar no *Monte de Compras*.
+
+**Lorde de Wyrt.** O *lorde* que embaralhou torna-se o *Lorde de Wyrt*. Ele é o primeiro a jogar e representa o início e fim da fase de *Descarte e Troca* — quando sua vez retornar, a fase se encerra.
+
+Na sua vez, o *Lorde de Wyrt* pode descartar até 3 cartas, colocando-as no centro da *mesa*, e comprar a mesma quantidade de cartas do *Monte de Compras*. Além disso, ele possui o direito a uma **segunda ação opcional**, chamada **Mão de Wyrt**, que ocorre **após todos os *lordes* finalizarem suas ações**. Essa ação especial permite ao *Lorde de Wyrt* trocar até 3 cartas novamente, escolhendo entre o *Monte de Compras* ou as cartas deixadas no centro da *mesa*, desde que descarte a mesma quantidade antes.
+
+O *Lorde de Wyrt* pode também passar sua vez, sem realizar *Descarte* ou *Troca*. No entanto, se fizer isso, o próximo *lorde* da *Ordem dos Lordes* apenas poderá descartar cartas e comprar do *Monte de Compras*, e o *Lorde de Wyrt* **perde o direito de usar a Mão de Wyrt**.
 
 ### Formação de Combinações
 
@@ -67,12 +69,12 @@ Com as cartas nas *mãos*, o *lorde* deve fazer combinações para ter garantia 
 
 | Combinação | Pontos | Exemplos |
 | --- | --- | --- |
-| *Maior Tesouro* | 1 | Se na mão tem 3, 8, 6, 5, Ás e Q; então Ás é *Maior Tesouro* (maior valor da carta da *mão*) |
-| *Par* | 2 | Se na mão tem 1, K, 8 e K; então os dois Ks são *Par* |
-| *Trinca* | 3 | Se na mão tem 2, 7, 4, 7 e 7; então os três 7s são *Trinca* |
-| *Aventureiros* | 4 | Se na mão tem J, 9, 10, 8 e Q; então a sequência 8, 9, 10, J e Q são *Aventureiros* |
-| *Dragão* | 5 | Um *Par* e uma *Trinca* na mão |
-| *Reis de Arton* | 6 | Na mão deve ter e somente deve ter as cartas 10, J, Q, K, Ás para fazer *Reis de Arton* |
+| *Maior Tesouro* | 1 | Quando não houver nenhuma outra combinação, a maior carta da sua *mão* é o *Maior Tesouro*. Se na mão tiver 3, 8, 6, 5, Ás e Q; então Ás é *Maior Tesouro* |
+| *Par* | 2 | Ter duas cartas iguais na *mão*. Se na mão tem 1, K, 8 e K; então os dois Ks são *Par* |
+| *Trinca* | 3 | Ter três cartas iguais na *mão*. Se na mão tem 2, 7, 4, 7 e 7; então os três 7s são *Trinca* |
+| *Aventureiros* | 4 | Ter cinco cartas sequênciais na *mão*. Se na mão tem J, 9, 10, 8 e Q; então a sequência 8, 9, 10, J e Q são *Aventureiros* |
+| *Dragão* | 5 | Ter um *Par* e uma *Trinca* na *mão*. |
+| *Reis de Arton* | 6 | Na *mão* deve ter e somente deve ter as cartas 10, J, Q, K, Ás para fazer *Reis de Arton* |
 
 As cartas vão de 2 (menor valor) a Ás (maior valor) - ordem crescente J (valete), Q (rainha) e K (rei). Naipes das cartas não importam.
 
